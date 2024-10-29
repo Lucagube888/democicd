@@ -2,7 +2,7 @@
 
 Repositorio de demostración de CI/CD con github actions
 
-## Sesión 2
+## Sesión 2.0
 
 En esta sesión aprenderemos:
   - Github Actions: Qué son, para qué sirven y cómo configuralas.
